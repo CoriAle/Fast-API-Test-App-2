@@ -12,5 +12,5 @@ pip3 install -r requirements.txt
 ## Run Project
 
 ```
-uvicorn main:app --reload
+uvicorn product.main:app --reload
 ```
